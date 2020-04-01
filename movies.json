@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Ip Man 4: The Finale",
+    "type": "Action, Drama, History",
+    "cover": "https://image.tmdb.org/t/p/w300_and_h450_bestv2/b5cz6BoyHrgBnhfDHOW5hXRWbln.jpg",
+    "description": "Following the death of his wife, Ip Man travels to San Francisco to ease tensions between the local kung fu masters and his star student, Bruce Lee, while searching for a better future for his son.",
+    "price": 30,
+    "open": false
+  },
+  {
+    "name": "My Hero Academia: Heroes Rising",
+    "type": "Animation, Action",
+    "cover": "https://image.tmdb.org/t/p/w300_and_h450_bestv2/zGVbrulkupqpbwgiNedkJPyQum4.jpg",
+    "description": "Class 1-A visits Nabu Island where they finally get to do some real hero work. The place is so peaceful that it's more like a vacation … until they're attacked by a villain with an unfathomable Quirk! His power is eerily familiar, and it looks like Shigaraki had a hand in the plan.",
+    "price": 20,
+    "open": false
+  },
+  {
+    "name": "The Farewell",
+    "type": "Comedy, Drama",
+    "cover": "https://image.tmdb.org/t/p/w300_and_h450_bestv2/7ht2IMGynDSVQGvAXhAb83DLET8.jpg",
+    "description": "A headstrong Chinese-American woman returns to China when her beloved grandmother is given a terminal diagnosis. Billi struggles with her family's decision to keep grandma in the dark about her own illness as they all stage an impromptu wedding to see grandma one last time.",
+    "price": 60,
+    "open": false
+  },
+  {
+    "name": "Bloodshot",
+    "type": "Action, Science Fiction",
+    "cover": "https://image.tmdb.org/t/p/w300_and_h450_bestv2/8WUVHemHFH2ZIP6NWkwlHWsyrEL.jpg",
+    "description": "After he and his wife are murdered, marine Ray Garrison is resurrected by a team of scientists. Enhanced with nanotechnology, he becomes a superhuman, biotech killing machine—'Bloodshot'. As Ray first trains with fellow super-soldiers, he cannot recall anything from his former life.",
+    "price": 80,
+    "open": false
+  },
+  {
+    "name": "Stray Dolls",
+    "type": "Drama, Crime",
+    "cover": "https://image.tmdb.org/t/p/w300_and_h450_bestv2/l0e0I1IMdOMV1YXCBCmd9mV04uV.jpg",
+    "description": "Riz is a recent South Asian immigrant who takes a job at a seedy motel in a bid to start over in America. The motel’s other employees and guests pull her back into a life she preferred to leave behind.",
+    "price": 60,
+    "open": false
+  },
+  {
+    "name": "Chance",
+    "type": "Drama, Family, Mystery",
+    "cover": "https://image.tmdb.org/t/p/w300_and_h450_bestv2/5YIyN3pYIKsUbGaQL71me1K4YJ.jpg",
+    "description": "Chance Matthew Modine (Full Metal Jacket/Stranger Things) stars as a youth baseball coach in the film Chance, a true story of a teenage love triangle leading to one of the two boys' tragic death - told through the lens of elite youth baseball.",
+    "price": 50,
+    "open": false
+  },
+  {
+    "name": "Inuyashiki",
+    "type": "Action, Science Fiction, Fantasy",
+    "cover": "https://image.tmdb.org/t/p/w300_and_h450_bestv2/en6zRApijsHUEVfBKZDSp0OHlZP.jpg",
+    "description": "A middle-aged office worker encounters aliens and is gifted with alien technology and limitless powers.",
+    "price": 150,
+    "open": false
+  },
+  {
+    "name": "Hooking Up",
+    "type": "Drama, Comedy",
+    "cover": "https://image.tmdb.org/t/p/w300_and_h450_bestv2/y5QXP7qdwtPRiZy6cQTjRoaTXuW.jpg",
+    "description": "Bailey and Darla embark upon a misguided and mutually deceitful form of therapy, one in which they must drive across the country re-enacting Darla's colorful history as a sex addict. As their true motivations for the road trip come to light, the unlikely pair force one another to confront their issues, discovering that there might actually be more to love than just sex.",
+    "price": 90,
+    "open": false
+  },
+  {
+    "name": "Go!",
+    "type": "Family",
+    "cover": "https://image.tmdb.org/t/p/w300_and_h450_bestv2/tOLC9552jBvymwsgHc3ri2SyuyD.jpg",
+    "description": "Jack is a charismatic larrikin who has just discovered the one thing he's really good at — go-kart racing. With the support of his mentor, Patrick, an old race car driver with a secret past, and his best mates Colin and Mandy, Jack must learn to control his recklessness if he is to defeat the best drivers in Australia, including the ruthless champion Dean, and win the National title.",
+    "price": 90,
+    "open": false
+  }
+]
