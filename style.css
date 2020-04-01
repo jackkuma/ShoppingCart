@@ -27,6 +27,20 @@ header {
   font-size: 1.2em;
   font-weight: 500;
 }
+header h1 img {
+  display: block;
+  width: 100px;
+  height: auto;
+}
+header h1::before {
+  background-color: #aaa;
+  content: '';
+  position: absolute;
+  top:-30px;
+  left: 16px;
+  width: 6px;
+  height: 25px;
+}
 header h1,h3 {
   margin-top: 0;
   margin-bottom: 0;
